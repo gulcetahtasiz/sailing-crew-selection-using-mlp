@@ -1,5 +1,7 @@
 # Microsoft AI Innovators – Sailing Crew Classification
 
+<img width="448" height="166" alt="lineup_overlay" src="https://github.com/user-attachments/assets/e56c9f05-9c81-4b0d-b95a-11ae29c7b60f" />
+
 This project was developed as part of the **Microsoft AI Innovators Summer Program**.
 
 The goal of the project was to explore how machine learning can be used to support **sailing crew role classification and team selection** using structured sailing data.
