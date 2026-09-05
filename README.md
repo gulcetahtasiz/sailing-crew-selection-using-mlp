@@ -1,4 +1,4 @@
-# Microsoft AI Innovators – Sailing Crew Classification
+# Sailing Crew Selection Using MLP
 
 <img width="800" height="400" alt="lineup_overlay" src="https://github.com/user-attachments/assets/e56c9f05-9c81-4b0d-b95a-11ae29c7b60f" />
 
