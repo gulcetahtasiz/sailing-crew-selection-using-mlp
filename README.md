@@ -4,7 +4,7 @@
 
 This project was developed as part of the **Microsoft AI Innovators Summer Program**.
 
-The goal of the project was to explore how machine learning can be used to support **sailing crew role classification and team selection** using structured sailing data.
+The goal of the project was to explore how machine learning can be used to support **sailing crew role classification and seven athlete team selection** using structured athlete data.
 
 ## What I Worked On
 
