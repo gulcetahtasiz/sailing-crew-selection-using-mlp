@@ -1,6 +1,6 @@
 # Microsoft AI Innovators – Sailing Crew Classification
 
-<img width="600" height="166" alt="lineup_overlay" src="https://github.com/user-attachments/assets/e56c9f05-9c81-4b0d-b95a-11ae29c7b60f" />
+<img width="800" height="400" alt="lineup_overlay" src="https://github.com/user-attachments/assets/e56c9f05-9c81-4b0d-b95a-11ae29c7b60f" />
 
 This project was developed as part of the **Microsoft AI Innovators Summer Program**.
 
